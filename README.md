@@ -59,7 +59,3 @@ Model cards for each algorithm are included in this repository to provide insigh
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Contact Details
-For more information or collaboration, feel free to contact me via email at [raha_assaf@yahoo.com](mailto:raha_assaf@yahoo.com) 
-
